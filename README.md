@@ -4,3 +4,5 @@
 Thanks to adRespect team for fun task. Mobile optimisation without Figma project wasn't so easy and become a little bit messy but it works well.
 I hope you enjoy and like my own solutions for open cases.
 
+http://antirust-april.000webhostapp.com/ - link for demo
+Sorry for free hosting :)
